@@ -25,5 +25,5 @@ jobs:
         python-version: "3.10"
     - name: python application
       run: |
-       poython calculator.py
+       python calculator.py
        python test_calculator
